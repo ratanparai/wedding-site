@@ -9,6 +9,6 @@ thumbnail: ashirbad-kaku.jpg
 alt: image-alt
 project-date: February 19th, 2021
 category: Ashirbad
-description: Depu kaku is giving an engagement ring to Mili.
+description: Depu kaku is giving the engagement ring to Mili.
 
 ---

@@ -9,6 +9,6 @@ thumbnail: ashirbad-dada.jpg
 alt: image-alt
 project-date: February 19th, 2021
 category: Ashirbad
-description: Ashis Dada is giving an engagement ring to Ratan.
+description: Ashis Dada is giving the engagement ring to Ratan.
 
 ---
